@@ -1,0 +1,39 @@
+body {
+	background-color: #565d47;
+
+	color: #100303;
+
+	font-family: Courier New;
+}
+
+hr {
+	border-style: none;
+	border-top-style: dotted; 
+	border-color: white;
+	border-width: 5px;
+	width: 50%; 
+} 
+ul {
+	display: table;
+	margin: 0 auto;
+}
+.JenjangPendidikan  {
+	background-color: #b49c73;
+	font-family: Courier New;
+	color: #222831;
+}
+.Organisasi {
+	background-color: #b49c73;
+	font-family: Courier New;
+	color: #222831;
+}
+.matakuliah {
+	background-color: #b49c73;
+	font-family: Courier New;
+	color: #1b262c;
+
+}
+#Heading {
+	color: #100303;
+	font-family: Courier New;
+}
